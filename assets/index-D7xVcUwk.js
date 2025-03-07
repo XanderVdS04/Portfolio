@@ -206,8 +206,9 @@ html body {
 `,SA=Bl.h1`
   font-family: 'Inter', sans-serif;
   color: white;
-  text-align: center;
+  text-align: left;
   margin-top: 20px;
+  margin-left: 50px;
   font-size: 1.5rem;
   font-weight: bold;
 `,CA=Bl.p`
