@@ -13,6 +13,7 @@
     "@csstools/normalize.css": "^12.1.1",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
+    "@fontsource/inter": "^5.2.5",
     "antd": "^5.24.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
