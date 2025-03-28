@@ -58,10 +58,15 @@ const App = () => {
           </Title>
           <Title level={2} style={{ color: 'white' }}>👋 Hi, I'm Xander Van der Steichel!</Title>
           <Text style={{ color: 'white' }}>
-            I am a third-year Bachelor's student in <strong>Applied Computer Science</strong> at <strong>HoGent</strong>,
-            specializing in <strong>Mobile & Enterprise Development</strong>. Passionate about crafting user-friendly and impactful solutions,
-            I have experience in <strong>Android, iOS, React</strong>, and various <strong>backend technologies</strong>.
-          </Text>
+          I am a third-year Bachelor's student in <strong>Applied Computer Science</strong> at <strong>HoGent</strong>,
+          specializing in <strong>Mobile & Enterprise Development</strong>. Passionate about crafting user-friendly and impactful solutions,
+          I have experience in <strong>Android, iOS, React</strong>, and various <strong>backend technologies</strong>.
+          <br /><br />
+          Besides my studies and work experience in the IT sector, I have a personal project: <strong>X Prints</strong>, a small 3D printing initiative.
+          Although this venture is not officially registered, it allows me to bring creative ideas to life and deliver custom-made solutions.
+          This project enables me to combine my technical skills with creativity.
+        </Text>
+
           <Divider />
 
           <Title level={3} style={{ color: 'white' }}>💡 Soft Skills</Title>
@@ -81,9 +86,12 @@ const App = () => {
 
           <Title level={3} style={{ color: 'white' }}>💼 Work Experience</Title>
           <List>
-            <List.Item><Text style={{ color: 'white' }}><strong>Internship: Mobile & Web Development</strong> (Jan 2025 - May 2025) – Delaware</Text></List.Item>
-            <List.Item><Text style={{ color: 'white' }}><strong>IT Store Employee</strong> (2023 - Present) – ITS PLUS BV</Text></List.Item>
-            <List.Item><Text style={{ color: 'white' }}><strong>Metalworking Employee</strong> (2021 - 2024) – Q-developments by Quatra</Text></List.Item>
+          <List.Item><Text style={{ color: 'white' }}><strong>Internship: Mobile & Web Development</strong> (Jan 2025 - May 2025) – Delaware</Text></List.Item>
+          <List.Item><Text style={{ color: 'white' }}><strong>IT Store Employee</strong> (Jul 2023 - Present) – ITS PLUS BV</Text></List.Item>
+          <List.Item><Text style={{ color: 'white' }}><strong>Metalworking Employee</strong> (Jul 2021 - Present) – Q-developments by Quatra</Text></List.Item>
+          <List.Item><Text style={{ color: 'white' }}><strong>Internship: Web Developer</strong> (Sep 2022 - Dec 2022) – Q-developments by Quatra</Text></List.Item>
+          <List.Item><Text style={{ color: 'white' }}><strong>Sports Camp Instructor (Mountain Biking)</strong> (Jul 2021) – Recreatief VZW</Text></List.Item>
+          <List.Item><Text style={{ color: 'white' }}><strong>Retail Employee</strong> (Jul 2020) – Delhaize Belgium</Text></List.Item>
           </List>
           <Divider />
 
